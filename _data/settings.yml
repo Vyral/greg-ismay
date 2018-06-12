@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Raleigh Real Estate Video Blog with Greg Ismay
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,43 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Greg Ismay
   title:
   license_number:
   about_markdown: |
+    Broker/Owner of Ismay Realty Group, has combined his real estate experience with a deep background in marketing to form a powerful system for selling homes. Since 2008, Ismay Realty Group has helped over 500 clients fulfill their real estate dreams.
 
-  market:
-  brand:
+    Greg cares deeply about both his clients and his team members. By putting team members in positions best suited for their gifts and talents, Ismay Realty Group offers our clients specialized service at every step of the transaction, ensuring the highest level of accuracy and communication. If you’re considering buying or selling a home in the Raleigh-Durham or Triangle area, the Ismay Realty Group is here to help. We’d love to hear from you!
+  market: Raleigh
+  brand: Ismay Realty Group
   brokerage:
-  address:
-  phone:
+  address: 808 Salem Woods Drive Suite 104<br>Raleigh, NC 27615
+  phone: 919-882-6005
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Greg@IsmayRealtyGroup.com
+  url: https://www.SearchHomesInRaleigh.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.searchhomesinraleigh.com/homevalue/value
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.SearchHomesInRaleigh.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.searchhomesinraleigh.com/homevalue/value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.SearchHomesInRaleigh.com
 
 lender:
   show_section: false
@@ -57,17 +59,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/SearchRaleighHomes
+  linkedin_url: https://www.linkedin.com/in/gregismay1
+  gplus_url: https://plus.google.com/b/106032660430543492626/106032660430543492626
+  youtube_url: https://www.youtube.com/user/TheIsmayrealtygroup
+  twitter_url: https://twitter.com/GregIsmay
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: https://www.zillow.com/profile/IsmayRealtyGroup/
+  trulia_url: http://www.trulia.com/profile/greg-ismay-agent-raleigh-nc-zg0tcbzh/overview
+  yelp_url: https://www.yelp.com/biz/ismay-realty-group-raleigh
+  podcast_url: https://itunes.apple.com/us/podcast/raleigh-real-estate-blog-podcast/id877742399?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -81,14 +83,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 30
+  # hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
-  theme_color: '#999'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -108,7 +110,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#000'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

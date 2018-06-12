@@ -1341,7 +1341,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #000;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1382,7 +1382,7 @@ html[xmlns] .flexslider .slides {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #000;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1418,12 +1418,12 @@ html[xmlns] .flexslider .slides {
     opacity: 0; } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #999;
+  background: #000;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
 .navbar-andross-bottom {
-  background: #999;
+  background: #000;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -1493,7 +1493,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
   filter: drop-shadow(0px 2px 7px transparent); }
 
@@ -2376,7 +2376,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
+  background: black;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2580,7 +2580,7 @@ form select {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #000;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -2625,7 +2625,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #919191; }
+  background: black; }
 
 #side-logo {
   width: 90%;
@@ -2689,7 +2689,7 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   -webkit-filter: drop-shadow(0px 2px 7px transparent);
