@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Are These 5 Lessons We Learned From 2007 About to Come in Handy?
-date: 2018-06-13 17:31:02
+title: 'Don''t Get Too Comfortable: Our Market Has Looked Like This Before'
+date: 2018-06-13 17:31:00
 tags:
   - Real Estate
 excerpt: >-
@@ -40,5 +40,3 @@ Let’s take a look at five crucial lessons we learned from that unfortunate per
 {% include pullquote.html %}
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
