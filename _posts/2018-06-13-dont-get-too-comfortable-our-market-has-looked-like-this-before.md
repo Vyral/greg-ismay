@@ -21,7 +21,7 @@ youtube_code: gF8I0iA9kgo
 
 {% include youtube.html %}
 
-Today’s market is a far cry from the mortgage crisis of 2007. In fact, it’s almost too good. But while we’re sitting pretty at the moment, our current high demand and low inventory is actually somewhat reminiscent of a time just before that low point in our market.
+Today’s market is a far cry from the mortgage crisis of 2007. In fact, it’s almost too good. But while we’re sitting pretty at the moment, our current high demand and low inventory are actually somewhat reminiscent of a time just before that low point in our market.
 
 So with that in mind, it’s time to reflect on an important question: What did we learn from the 2007 bubble burst?
 
@@ -29,7 +29,7 @@ Let’s take a look at five crucial lessons we learned from that unfortunate per
 
 **1. Don’t buy too much house**. Purchasing more than you can afford will be far more trouble than it’s worth. This was one mistake many homebuyers were guilty of just before the market crashed. It’s far better to make your home purchase according to your needs today, rather than your predictions for the future.
 
-**2. Don’t depend on your home increasing in value.** With the market is on its way up, some buyers are tempted to ride the trend. But what happens when this isn’t the case? There’s no guarantee a home’s value will continue to rise. Your home purchase should be based on your lifestyle and not on the hope that your home will keep appreciating.
+**2. Don’t depend on your home increasing in value.** With the market on its way up, some buyers are tempted to ride the trend. But what happens when this isn’t the case? There’s no guarantee a home’s value will continue to rise. Your home purchase should be based on your lifestyle and not on the hope that your home will keep appreciating.
 
 **3. Make sure you have ample cash reserves.** Most experts recommend saving back six months’ worth of total expenses, so that you can still sustain your lifestyle if disaster strikes.
 
