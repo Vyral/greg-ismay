@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Gr9-z99Zak
+youtube_code: _Gr9-z99Zak
 ---
 
 {% include youtube.html %}
