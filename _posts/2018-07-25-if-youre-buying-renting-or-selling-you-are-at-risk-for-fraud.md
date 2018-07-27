@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If You''re Buying, Renting, or Selling, You Are at Risk for Fraud'
-date: 2018-07-25 15:10:48
+date: 2018-07-25 15:10:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: L2y1z53qCLk
+youtube_code: Gr9-z99Zak
 ---
 
 {% include youtube.html %}
@@ -33,5 +33,3 @@ Protecting yourself against fraud when buying, renting, or selling real estate i
 **3. Moving company fraud.** Imagine this: You’ve made an offer on a home and gone under contract. Next, you start doing some comparison shopping to find the best deal on a mover, when you notice a Craigslist ad with a very attractive deal. Of course you decide to contact the poster and get an estimate. Then comes the day of the move. The movers load up your belongings (and perhaps ask for more money than what you’ve already given them), and drive off—never to be seen again.<br><br>The lesson to take away from this scenario is to always make sure companies you work with are reputable. In this day and age, you’ve got to be careful who you trust. Check out reviews, look up credentials, and be extremely careful who you hire.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
