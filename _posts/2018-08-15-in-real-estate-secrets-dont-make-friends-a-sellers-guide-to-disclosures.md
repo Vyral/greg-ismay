@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: p4uLwPhGHws
 ---
 
-{% include youtube.html %}<br>&nbsp;
+{% include youtube.html %}
 
 When selling a home in the state of North Carolina, what are you legally required to disclose to the buyer?
 
