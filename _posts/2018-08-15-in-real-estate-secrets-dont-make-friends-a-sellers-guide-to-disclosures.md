@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'In Real Estate, Secrets Don’t Make Friends: A Seller’s Guide to Disclosures'
-date: 2018-08-15 18:48:28
+date: 2018-08-15 18:48:00
 tags:
 excerpt: >-
   What sorts of things are homeowners required to disclose to buyers during a
   transaction? Today I’ll discuss a few of those items.
 enclosure:
 pullquote: >-
-  f a seller doesn’t properly disclose certain pieces of information, it could
+  If a seller doesn’t properly disclose certain pieces of information, it could
   incur legal ramifications.
 enclosure_type: video/mp4
 enclosure_time:
@@ -42,5 +42,3 @@ Additionally, it has also become a requirement for homeowners to fill out anothe
 This requirement was prompted by a large, national builder who was building in this market—they had severed the rights to sell those resources later. There was a class-action lawsuit, and **now all homeowners are required to disclose whether or not they sold any of the gas, oil, or mineral rights to another party.**
 
 This is just an overview of the types of things you should expect to disclose upon selling. If you’re planning to sell and would like to dig deeper into this topic, please feel free to reach out to me. I’d be happy to share any information that might be of help.
-
-&nbsp;
