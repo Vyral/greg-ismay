@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: RA15FsdDzqk
+youtube_code: Z-bG5icut7o
 ---
 
 {% include youtube.html %}
@@ -31,5 +31,3 @@ We’re taking a bit of a diversion from real estate today to talk about a few o
 {% include pullquote.html %}
 
 There you have it—our three best recommendations for fall getaways in North Carolina. If you know of a place that you enjoy going to here in North Carolina, don’t hesitate to reach out and give me a call or send me an email with your recommendations. I hope to hear from you soon.
-
-&nbsp;
