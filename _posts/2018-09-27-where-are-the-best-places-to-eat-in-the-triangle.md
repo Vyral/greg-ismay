@@ -27,7 +27,7 @@ Instead of talking about real estate, today I want to talk about some of my favo
 
 {% include pullquote.html %}
 
-**3. &nbsp;Vinson’s Pub.** &nbsp;I stumbled into this place recently when showing a couple from Texas homes in Clayton and couldn’t have been happierI did. This restaurant, right on Main St, is in a 100-year old building. The decor is funky and hip and the menu is quite inventive. If you're really hungry, they have a “Man BLT” that I can’t recommend enough.
+**3. &nbsp;Vinson’s Pub.** &nbsp;I stumbled into this place recently when showing a couple from Texas homes in Clayton and couldn’t have been happier I did. This restaurant, right on Main St, is in a 100-year old building. The decor is funky and hip and the menu is quite inventive. If you're really hungry, they have a “Man BLT” that I can’t recommend enough.
 
 **4. Ole Time Barbecue.** This is my “hole in the wall” pick. Down on the border of Raleigh and Cary, you can find this good, old-fashioned barbecue joint that has been servicing Carolina-style barbecue for years. It was recently named one of the best barbecue restaurants in all of North Carolina. If you’re in the mood for some meat, this is a great place to go. It can get busy and you might have to wait, but the wait is well worth it in my opinion.
 
