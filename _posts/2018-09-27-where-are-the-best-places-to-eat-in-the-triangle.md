@@ -23,11 +23,11 @@ Instead of talking about real estate, today I want to talk about some of my favo
 
 **1. Cafe Tiramisu.** I’ve been going here for nearly two decades and it’s my favorite place to eat. The mom-and-pop family feel is something that can’t be replicated. Even though the original owners have passed away, their personality and history continue to live on. It’s quaint, quiet, and the service and the food are excellent. It’s a great business and a great place to grab a bite.
 
-**2. El Tapatio.** This Mexican restaurant is a bit off the beaten path. For the last several years, this restaurant in Wakefield has been serving some delicious, casual Mexican fare for diners of all ages and backgrounds. You’ll see people from all over the area here for the delicious, reasonably priced food and the amazing service.
+**2. El Tapatio.** This Mexican restaurant is a bit off the beaten path. For the last several years, this restaurant in Wakefield Crossing has been serving some delicious, casual Mexican fare for diners of all ages and backgrounds. You’ll see people from all over the area here for the delicious, reasonably priced food and the amazing service.
 
 {% include pullquote.html %}
 
-**3. &nbsp;Vinson’s Pub.** &nbsp;I stumbled into this place recently when showing a couple from Texas homes in Clayton and couldn’t have been happier I did. This restaurant, right on Main St, is in a 100-year old building. The decor is funky and hip and the menu is quite inventive. If you're really hungry, they have a “Man BLT” that I can’t recommend enough.
+**3. Vinson’s Pub.** &nbsp;I stumbled into this place recently when showing a couple from Texas homes in Clayton and couldn’t have been happier I did. This restaurant, right on Main Street, is in a 100-year old building. The decor is funky and hip and the menu is quite inventive. If you're really hungry, they have a “Man BLT” that I can’t recommend enough.
 
 **4. Ole Time Barbecue.** This is my “hole in the wall” pick. Down on the border of Raleigh and Cary, you can find this good, old-fashioned barbecue joint that has been servicing Carolina-style barbecue for years. It was recently named one of the best barbecue restaurants in all of North Carolina. If you’re in the mood for some meat, this is a great place to go. It can get busy and you might have to wait, but the wait is well worth it in my opinion.
 
