@@ -28,6 +28,10 @@ We’re taking a bit of a diversion from real estate today to talk about a few o
 
 **3. Kinston.** If you're a foodie, you’re probably aware of the fantastic restaurant Chef & the Farmer. You may recognize Vivian Howard from her cooking show on PBS or from her very successful farm-to-table restaurant right here in Kinston. **On October 21, the Howards are hosting a celebration and a viewing of the last episode of their successful show.** If you need a place to stay in Kinston, try The Mother Earth Motor Lodge for an affordable option.
 
+![](/uploads/premier-invte-2018.jpeg)
+
 {% include pullquote.html %}
 
 There you have it—our three best recommendations for fall getaways in North Carolina. If you know of a place that you enjoy going to here in North Carolina, don’t hesitate to reach out and give me a call or send me an email with your recommendations. I hope to hear from you soon.
+
+&nbsp;
