@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look Back at the 2017 Market and a Glimpse Ahead to 2018
-date: 2018-10-08 16:45:38
+date: 2017-04-06 16:45:00
 tags:
   - Market Update
 excerpt: >-
@@ -40,5 +40,3 @@ It appears as though resale listings are going to continue to be low, and new co
 One thing that people have on their minds is the new tax reform bill. As far as I can tell, it doesn’t look as though things will be affected too much. The National Association of Realtors predicted that pricing would be affected in a downward fashion due to the tax bill, but I’m not seeing it yet; **we’ll just have to see what happens.**
 
 If you have any questions about what happened in the 2017 market or the outlook on 2018, feel free to reach out to us.
-
-&nbsp;
