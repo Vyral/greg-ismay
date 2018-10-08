@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Great Work Here From Taylor 1 Flooring
-date: 2018-10-08 16:38:40
+date: 2017-04-21 16:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -31,5 +31,3 @@ Next, we had a carpeted living room that the owner wanted to match to the wood i
 Finally, a leaky bathroom meant Kevin had to tear up a shower and find the source of the leak. He did, sealed it, then installed a brand-new shower and bathtub.
 
 **These are just a few of the times where Kevin has really been able to help our clients out.** If you have any questions for us about Taylor 1 Flooring or anything else, give us a call or send us an email and we’d be happy to answer it for you or refer you to someone who can.
-
-&nbsp;
