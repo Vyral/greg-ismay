@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: vEalz-bbJ28
 ---
 
 {% include youtube.html %}
@@ -37,5 +37,5 @@ So what’s the best way to find out your property’s true market value, what t
 If you have any other questions about home values or anything else related to real estate in the Raleigh area, give me a call or send me an email. I’d be happy to help you!
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
