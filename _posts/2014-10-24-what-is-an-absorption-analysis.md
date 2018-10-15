@@ -3,7 +3,9 @@ layout: post
 title: What Is an Absorption Analysis?
 date: 2014-10-24 19:01:00
 tags:
-excerpt:
+excerpt: >-
+  An absorption analysis acts as a guide to how home sellers should proceed in
+  pricing their home.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
