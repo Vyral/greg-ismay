@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Are the Best Places to Eat in the Triangle?
-date: 2018-09-27 19:00:23
+date: 2018-10-22 19:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -27,10 +27,8 @@ Instead of talking about real estate, today I want to talk about some of my favo
 
 {% include pullquote.html %}
 
-**3. Vinson’s Pub.** &nbsp;I stumbled into this place recently when showing a couple from Texas homes in Clayton and couldn’t have been happier I did. This restaurant, right on Main Street, is in a 100-year old building. The decor is funky and hip and the menu is quite inventive. If you're really hungry, they have a “Man BLT” that I can’t recommend enough.
+**3. Vinson’s Pub.**  I stumbled into this place recently when showing a couple from Texas homes in Clayton and couldn’t have been happier I did. This restaurant, right on Main Street, is in a 100-year old building. The decor is funky and hip and the menu is quite inventive. If you're really hungry, they have a “Man BLT” that I can’t recommend enough.
 
 **4. Ole Time Barbecue.** This is my “hole in the wall” pick. Down on the border of Raleigh and Cary, you can find this good, old-fashioned barbecue joint that has been servicing Carolina-style barbecue for years. It was recently named one of the best barbecue restaurants in all of North Carolina. If you’re in the mood for some meat, this is a great place to go. It can get busy and you might have to wait, but the wait is well worth it in my opinion.
 
 If you have any questions for me about any restaurant on this list or you’d like to share your recommendations with me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
