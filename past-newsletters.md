@@ -4,7 +4,10 @@ title: Past Monthly Print Newsletters
 permalink: /past-newsletters/
 ---
 <ul class="newsletters">
-<li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/AUG18_Newsletter_Ismay.pdf" target="_blank">August 2018 - Click here to expand in new tab.</a></li>
+<li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/NOV18_Newsletter_Ismay.pdf" target="_blank">November 2018 - Click here to expand in new tab.</a></li>
+<li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/OCT18_Newsletter_Ismay+(1).pdf" target="_blank">October 2018</a></li>
+<li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/SEPT18_Newsletter_Ismay.pdf" target="_blank">September 2018</a></li>
+<li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/AUG18_Newsletter_Ismay.pdf" target="_blank">August 2018</a></li>
 <li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/JUL18_Newsletter_Ismay+(1).pdf" target="_blank">July 2018</a></li>
 <li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/JUN18_Newsletter_Ismay.pdf" target="_blank">June 2018</a></li>
 <li><a href="https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAY18_Newsletter_Ismay.pdf" target="_blank">May 2018</a></li>
