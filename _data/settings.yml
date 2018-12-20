@@ -5,8 +5,6 @@ show_custom_links: true
 custom_links:
   - title: Our Listings
     url: https://www.zillow.com/profile/IsmayRealtyGroup/
-  - title: Home Snapshot
-    url: /snapshot/
   - title: Past Monthly Print Newsletters
     url: /past-newsletters/
   - title: Selling Your Home?
