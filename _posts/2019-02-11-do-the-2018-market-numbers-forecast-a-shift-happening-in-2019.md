@@ -1,21 +1,24 @@
 ---
 layout: post
 title: Do the 2018 Market Numbers Forecast a Shift Happening in 2019?
-date:
+date: 2019-02-11 18:06:29
 tags:
-excerpt:
+  - Market Update
+excerpt: >-
+  The latest numbers from December 2018 indicate we’re moving into a shifting
+  market.
 enclosure:
-pullquote:
+pullquote: 'Much like the monthly numbers, the yearly numbers are a bit of a mixed bag.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: BZjgz5IfMXs
 ---
 
 {% include youtube.html %}
 
-How did our Raleigh market end the year in 2018? &nbsp;First, let’s compare the year-over-year numbers from the month of December.
+How did our Raleigh market end the year in 2018?  First, let’s compare the year-over-year numbers from the month of December.
 
 Compared to December 2017, the number of new listings in December 2018 dropped 0.3%. In that time, the number of closed sales also dropped a full 17%.
 
@@ -30,5 +33,3 @@ First, the number of new listings dropped 2.1%. The number of closed sales, howe
 Much like the monthly numbers, the yearly numbers are a bit of a mixed bag. **The overall trend we’re seeing, though, is a slowdown of home sales, and this indicates we’re moving into a shifting market in 2019.** Moving forward, we’ll have to keep an eye on whether home sales continue to decrease or if these price increases start to slow down.
 
 If you’d like to know more about how these numbers impact you, don’t hesitate to give me a call. I’d be happy to speak with you.
-
-&nbsp;
