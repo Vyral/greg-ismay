@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's behind the recent plunge in home sales?
-date: 2019-04-02 20:19:22
+date: 2019-04-02 08:19:00
 tags:
 excerpt:
 enclosure:
@@ -59,4 +59,4 @@ If you want to check them out, take a look at this complete listing of available
 
 [Click here for all available Greater Raleigh homes for sale.](https://www.searchhomesinraleigh.com/){: target="_blank"}
 
-Finally, if you have any questions, whether you are looking to buy or sell, give me a call at (919) 412-3475. I'm here to help.<br>&nbsp;
+Finally, if you have any questions, whether you are looking to buy or sell, give me a call at (919) 412-3475. I'm here to help.<br>
