@@ -3,7 +3,9 @@ layout: post
 title: Pitfalls of Zillow and Trulia
 date: 2014-11-17 20:47:00
 tags:
-excerpt:
+excerpt: >-
+  Almost everybody begins their home search online and the sites people spend
+  the most time at are Zillow and Trulia.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
