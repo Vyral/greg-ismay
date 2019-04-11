@@ -21,11 +21,7 @@ youtube_code: vr685Dc9vi4
 
 {% include youtube.html %}
 
-CAPE is an acronym our team uses to help home sellers remember the key elements to think about when they put their home on the market. **C**ondition, **a**ccess, **p**rice, and **e**xposure are all key to attracting the most buyers and getting the most money possible from your sale. Today I’ll break down each of these elements and explain why they’re so important to stay on top of.
-
-<br>First, a home’s **condition** is something that the seller has complete control over. Think of it this way: The buyer needs to envision themselves living in your space, so **the more you can do to help them imagine living there, the better**. Here’s how you can help that along:
-
-&nbsp;
+CAPE is an acronym our team uses to help sellers remember the elements that can make or break their home sale.&nbsp;**C**ondition, **a**ccess, **p**rice, and **e**xposure are all key to attracting the most buyers and getting the most money possible from your sale. Today I’ll break down each of these elements and explain why they’re so important to stay on top of.<br><br>First, a home’s **condition** is something that the seller has complete control over. Think of it this way: The buyer needs to envision themselves living in your space, so **the more you can do to help them imagine living there, the better**. Here’s how you can help that along:
 
 1. **Declutter**. Remove any clutter that will ruin the buyer’s fantasies. Pack your extra belongings away or get rid of them altogether.
 2. **Paint**. A fresh coat of paint can help a buyer envision living in your home, but period color is important, too. If you have questions about what colors are best, I’d be happy to advise you about what’s currently popular in the real estate market.
