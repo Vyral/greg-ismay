@@ -4,7 +4,7 @@ title: Past Monthly Print Newsletters
 permalink: /past-newsletters/
 ---
 
-* [May 2019 - Click here to expand in new tab.]( Amazon S3/vyralmarketing/Greg Ismay/Print Newletters/MAY19_Newsletter_Ismay.pdf MAY19_Newsletter_Ismay.pdf Latest version  Overview Properties Permissions Select from Success Open Download Download as Make public Copy path  Owner frank Last modified Apr 23, 2019 1:00:16 PM GMT-0500 Etag dc20949a928320d8a5a572c18d8a27d3 Storage class Standard Server-side encryption None Size 1.3 MB Key Greg Ismay/Print Newletters/MAY19_Newsletter_Ismay.pdf Object URL https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAY19_Newsletter_Ismay.pdf){: target="_blank"}
+* [May 2019 - Click here to expand in new tab.](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAY19_Newsletter_Ismay.pdf){: target="_blank"}
 * [April 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/APR19_Newsletter_Ismay2.pdf){: target="_blank"}
 * [March 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAR19_Newsletter_Ismay.pdf){: target="_blank"}
 * [February 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/FEB19_Newsletter_Ismay5.pdf){: target="_blank"}
