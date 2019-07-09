@@ -4,18 +4,19 @@ title: Past Monthly Print Newsletters
 permalink: /past-newsletters/
 ---
 
-* [June 2019 - Click here to expand in new tab.](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/JUNE19_Newsletter_Ismay.pdf){: target="_blank"}
+* [July 2019 - Click here to expand in new tab.](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/JULY+19_Newsletter_Ismay.pdf){: target="_blank"}
+* [June 2019&nbsp;](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/JUNE19_Newsletter_Ismay.pdf){: target="_blank"}
 * [May 2019&nbsp;](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAY19_Newsletter_Ismay.pdf){: target="_blank"}
 * [April 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/APR19_Newsletter_Ismay2.pdf){: target="_blank"}
 * [March 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAR19_Newsletter_Ismay.pdf){: target="_blank"}
 * [February 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/FEB19_Newsletter_Ismay5.pdf){: target="_blank"}
 * [January 2019](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/JAN19_Newsletter_Ismay2.pdf){: target="_blank"}
-* [December 2018 ](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/DEC18_Newsletter3_Ismay.pdf){: target="_blank"}
-* [November 2018 ](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/NOV18_Newsletter_Ismay.pdf){: target="_blank"}
-* [October 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/OCT18_Newsletter_Ismay+(1).pdf){: target="_blank"}
+* [December 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/DEC18_Newsletter3_Ismay.pdf){: target="_blank"}
+* [November 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/NOV18_Newsletter_Ismay.pdf){: target="_blank"}
+* [October 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/OCT18_Newsletter_Ismay+&#40;1&#41;.pdf){: target="_blank"}
 * [September 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/SEPT18_Newsletter_Ismay.pdf){: target="_blank"}
 * [August 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/AUG18_Newsletter_Ismay.pdf){: target="_blank"}
-* [July 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/JUL18_Newsletter_Ismay+(1).pdf){: target="_blank"}
+* [July 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/JUL18_Newsletter_Ismay+&#40;1&#41;.pdf){: target="_blank"}
 * [June 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/JUN18_Newsletter_Ismay.pdf){: target="_blank"}
 * [May 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAY18_Newsletter_Ismay.pdf){: target="_blank"}
 * [April 2018](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/APR18_Newsletter_Ismay.pdf){: target="_blank"}
