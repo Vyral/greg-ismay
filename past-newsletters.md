@@ -4,7 +4,8 @@ title: Past Monthly Print Newsletters
 permalink: /past-newsletters/
 ---
 
-* [August 2019 - Click here to expand in new tab.](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/AUGUST+19_Newsletter_Ismay.pdf){: target="_blank"}
+* [September 2019 - Click here to expand in new tab.](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/SEPTEMBER+19_Newsletter_Ismay.pdf){: target="_blank"}
+* [August 2019&nbsp;](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/AUGUST+19_Newsletter_Ismay.pdf){: target="_blank"}
 * [July 2019](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/JULY+19_Newsletter_Ismay.pdf){: target="_blank"}
 * [June 2019&nbsp;](https://vyralmarketing.s3.amazonaws.com/Greg+Ismay/Print+Newletters/JUNE19_Newsletter_Ismay.pdf){: target="_blank"}
 * [May 2019&nbsp;](https://s3.amazonaws.com/vyralmarketing/Greg+Ismay/Print+Newletters/MAY19_Newsletter_Ismay.pdf){: target="_blank"}
