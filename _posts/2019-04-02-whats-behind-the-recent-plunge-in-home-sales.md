@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/architectural-design-architecture-blue-sky-462358.jpg
 youtube_code:
 ---
 
@@ -59,4 +59,4 @@ If you want to check them out, take a look at this complete listing of available
 
 [Click here for all available Greater Raleigh homes for sale.](https://www.searchhomesinraleigh.com/){: target="_blank"}
 
-Finally, if you have any questions, whether you are looking to buy or sell, give me a call at (919) 412-3475. I'm here to help.<br>
+Finally, if you have any questions, whether you are looking to buy or sell, give me a call at (919) 412-3475. I'm here to help.
