@@ -13,7 +13,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-![](/uploads/download-1-1.jpg){: width="279" height="180"}
+&nbsp;
 
 Friends and Clients —As the world nervously watches the spread of COVID-19 (Coronavirus), the pandemic has begun prompting responses from every industry, and nearly every level of organization in the country. Perhaps a much anticipated social gathering or recreational league you or a family member enjoy has just been canceled or postponed indefinitely. Professional sporting events, concerts, and even political campaigning have been impacted.&nbsp;**How then, has COVID-19 affected the real estate market, especially as we enter what was primed to be an especially hot spring?**
 
