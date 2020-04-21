@@ -3,7 +3,9 @@ layout: post
 title: How will COVID-19 affect real estate?
 date: 2020-03-17 00:00:00
 tags:
-excerpt:
+excerpt: >-
+  How has COVID-19 affected the real estate market, especially as we enter what
+  was primed to be an especially hot spring?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -13,9 +15,9 @@ youtube_alternate_image: /uploads/download-1-2.jpg
 youtube_code:
 ---
 
-&nbsp;
+Friends and Clients —
 
-Friends and Clients —As the world nervously watches the spread of COVID-19 (Coronavirus), the pandemic has begun prompting responses from every industry, and nearly every level of organization in the country. Perhaps a much anticipated social gathering or recreational league you or a family member enjoy has just been canceled or postponed indefinitely. Professional sporting events, concerts, and even political campaigning have been impacted.&nbsp;**How then, has COVID-19 affected the real estate market, especially as we enter what was primed to be an especially hot spring?**
+As the world nervously watches the spread of COVID-19 (Coronavirus), the pandemic has begun prompting responses from every industry, and nearly every level of organization in the country. Perhaps a much anticipated social gathering or recreational league you or a family member enjoy has just been canceled or postponed indefinitely. Professional sporting events, concerts, and even political campaigning have been impacted.&nbsp;**How then, has COVID-19 affected the real estate market, especially as we enter what was primed to be an especially hot spring?**
 
 Lawrence Yu, chief economist for the National Association of Realtors, had anticipated about 5.5 million sales of previously owned homes this year (an increase from 2019 and 2018).
 
