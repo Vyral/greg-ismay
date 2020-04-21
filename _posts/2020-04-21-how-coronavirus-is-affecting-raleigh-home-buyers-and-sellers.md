@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How coronavirus is affecting Raleigh home buyers and sellers
-date: 2020-04-21 20:21:06
+date: 2020-04-21 20:21:00
 tags:
-excerpt:
+excerpt: I want to give you a balanced update on the Raleigh real estate situation.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
