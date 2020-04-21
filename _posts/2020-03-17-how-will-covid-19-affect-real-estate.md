@@ -13,8 +13,6 @@ youtube_alternate_image: /uploads/download-1.jpg
 youtube_code:
 ---
 
-{% include youtube.html %}
-
 Friends and Clients —As the world nervously watches the spread of COVID-19 (Coronavirus), the pandemic has begun prompting responses from every industry, and nearly every level of organization in the country. Perhaps a much anticipated social gathering or recreational league you or a family member enjoy has just been canceled or postponed indefinitely. Professional sporting events, concerts, and even political campaigning have been impacted.&nbsp;**How then, has COVID-19 affected the real estate market, especially as we enter what was primed to be an especially hot spring?**
 
 Lawrence Yu, chief economist for the National Association of Realtors, had anticipated about 5.5 million sales of previously owned homes this year (an increase from 2019 and 2018).
@@ -43,6 +41,6 @@ So what can you do if you have your good hygiene habits down but still aren’t 
 
 If you're practicing social distancing, I'd be happy to offer you a virtual consultation. There's no need to meet in person. We can discuss your specific needs in detail, and I can also provide you with a virtual tour of homes you may be interested in.
 
-Sellers: Setting up a mandatory hand washing station at open houses may be a great call. It communicates to the buyers that you're on their page--doing your civic duty to take COVID-19 seriously, but also determined to take advantage of great spring conditions.
+Sellers: Setting up a mandatory hand washing station at open houses may be a great call. It communicates to the buyers that you're on their page–doing your civic duty to take COVID-19 seriously, but also determined to take advantage of great spring conditions.
 
 If you have any real estate-related questions or you want more specific stats on how our market is performing, please reach out to me anytime. For COVID-19-related questions, routinely check the Centers for Disease Control website or contact medical professionals.&nbsp;
