@@ -1,7 +1,7 @@
 ---
 layout: post
 title: June 2020 Raleigh home price update
-date: 2020-12-08 19:41:24
+date: 2020-12-08 19:41:00
 tags:
 excerpt:
 enclosure:
@@ -44,3 +44,5 @@ If you're curious what your home is worth in the current hot environment, take a
 [Enter your address here to find out what your home is currently worth](https://www.searchhomesinraleigh.com/homevalue/value)
 
 If you have any questions, give me a call at (919) 412-3475. It's a confusing and challenging time, even more so if you're thinking of selling your home, but I'm here to help.
+
+[Read the full newsletter here\!](https://t.e2ma.net/webview/2vcn3m/956ff05e39c72ffc286b2b505463fcfa)
