@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will COVID-19 change where people choose to live?
-date:
+date: 2020-12-08 19:32:23
 tags:
 excerpt:
 enclosure:
