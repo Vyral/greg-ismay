@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ismay Realty Group May Newsletter
-date: 2020-12-08 19:21:07
+date: 2020-12-08 19:21:00
 tags:
 excerpt: >-
   We hope this newsletter finds you and your loved ones doing well as we all
@@ -29,4 +29,4 @@ The Ismay Realty Group would like to give a huge shout out to all the essential 
 
 Please be safe and healthy\! Stay home as much as possible. We will all get through this together\!
 
-All the Best,Greg
+[Read the full newsletter here\!&nbsp;](https://app.e2ma.net/app2/response/overview/770996080/)
