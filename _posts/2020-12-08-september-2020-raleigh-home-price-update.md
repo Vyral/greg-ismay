@@ -1,7 +1,7 @@
 ---
 layout: post
 title: September 2020 Raleigh home price update
-date: 2020-12-08 20:45:29
+date: 2020-12-08 20:45:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-182506696.jpg
+youtube_alternate_image: /uploads/bigstock-interior-design-series-modern-15985232.jpg
 youtube_code:
 ---
 
