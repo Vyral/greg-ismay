@@ -1,7 +1,7 @@
 ---
 layout: post
 title: October 2020 Raleigh home price update
-date: 2020-12-08 20:54:06
+date: 2020-12-08 20:54:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-autumn-country-house-in-woods-110449940.jpg
+youtube_alternate_image: /uploads/bigstock-luxurious-new-construction-wit-211234780.jpg
 youtube_code:
 ---
 
