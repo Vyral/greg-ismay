@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ismay Realty Group August Newsletter
-date:
+date: 2020-12-08 20:32:45
 tags:
 excerpt:
 enclosure:
