@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to save while refinancing with an “appraisal waiver”
-date:
+date: 2020-12-08 19:51:36
 tags:
 excerpt:
 enclosure:
