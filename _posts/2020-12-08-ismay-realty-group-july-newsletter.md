@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ismay Realty Group July Newsletter
-date: 2020-12-08 19:45:14
+date: 2020-12-08 19:45:00
 tags:
 excerpt: 'Welcome July! In some ways, this year is really flying by!'
 enclosure:
@@ -28,3 +28,5 @@ Please know that we will be here\! Feel free to reach out with any questions you
 The Ismay Realty Group continues to give a huge Thank You\! to all the essential workers that continue to work so hard to keep us all safe while putting their own lives in harms way. Thank you\! And we hope life is looking a little more normal for them, as well.
 
 Please stay safe and healthy\! We will all continue to get through this together\!
+
+[Read](__notset__)[&nbsp;the full newsletter here](https://t.e2ma.net/webview/ext27m/8e42879a7dbca81c63efa173ec53befb)[\!&nbsp;](https://t.e2ma.net/webview/27l65m/589bd64c1f5db27bbc1f94a7cf564540)
