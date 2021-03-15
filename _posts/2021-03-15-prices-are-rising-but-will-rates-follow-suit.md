@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/334196-svetik-1.jpg
 youtube_code:
 ---
 Friends and clients—
@@ -20,7 +20,7 @@ The fiercer seller’s market that emerged in the wake of last spring’s pandem
 
 However, with more inventory expected to hit the market soon, buyers may find a smidgen of relief. If you’re considering a home purchase or a refinance, here’s what you need to know:&nbsp;
 
-**Rates are still relatively low, but not for lack of upward pressure...&nbsp;**
+**Rates are still relatively low, but not for lack of upward pressure…&nbsp;**
 
 Catastrophic power outages in the Lone Star state and an increase in rates for 30-year fixed mortgages created downward pressure on demand.&nbsp;
 
