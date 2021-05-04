@@ -22,4 +22,4 @@ Our local housing market remains very tight with high demand and short supply. I
 
 Purchasing a home can be challenging, yet we have developed proven strategies that win in this competitive market. Exploring what Raleigh and the surrounding areas have to offer, is a great place to start. Even if you’re just thinking about looking around, please reach out. It’s worth checking out your options. We are here to answer questions and keep you informed of what is happening in the area.
 
-To read the full newsletter, click here\!&nbsp;
+To read the full newsletter, [click here\!&nbsp;](https://t.e2ma.net/webview/i022tn/92e7ec65b83519d9f06d83b8e82e6cb2)
