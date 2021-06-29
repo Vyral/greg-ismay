@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/july-1.PNG
+youtube_alternate_image: /uploads/download.jpg
 youtube_code:
 ---
 Hello July\! Can you believe we are over half way &nbsp;through the year already\! Time sure is flying by\! &nbsp;
