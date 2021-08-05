@@ -27,7 +27,7 @@ Second,&nbsp;**mortgage interest rates have been falling again the past few week
 
 In the homebuilding sphere, many builders are capping sales to manage their costs and make sure they don’t sell more homes than they can build as high demand persists.
 
-If you’re interested in knowing your home’s value in the present market based on recent Raleigh sales,&nbsp;[enter your address here to find out what your home is worth right now.](https://www.searchhomesinraleigh.com/homevalue/value)
+If you’re interested in knowing your home’s value in the present market based on recent Raleigh sales,&nbsp;**[enter your address here to find out what your home is worth right now.](https://www.searchhomesinraleigh.com/homevalue/value)**
 
 If you have any questions about our market or are thinking about buying or selling,&nbsp;**don’t hesitate to call us at 919-518-8383 or email us at greg@ismayrealtygroup.com**. We’re out in the market every day helping clients to buy and sell, and we do research so we have the best advice to give you, no matter your situation.
 
