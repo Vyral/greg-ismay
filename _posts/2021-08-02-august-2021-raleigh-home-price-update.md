@@ -2,7 +2,7 @@
 layout: post
 title: August 2021 Raleigh home price update
 date: 2021-08-02 00:00:00
-excerpt:
+excerpt: New listings help relieve pressure from competing buyers.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
